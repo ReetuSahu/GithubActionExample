@@ -12,5 +12,5 @@ jobs:
     steps:
       
       - name: Run onle line-script
-        run: 'Hello World'
+        run:  echo 'Hello World'
         
